@@ -2,4 +2,4 @@
 <h3 align="center">Computer science student and data scientist</h3>
 
 - 🌱 I’m currently learning Data Science
-- 🌍 speak Russian (native), English (A2)
+- 🌍 speak Russian (native), English (B2)
