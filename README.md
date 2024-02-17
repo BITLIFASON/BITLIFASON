@@ -2,7 +2,7 @@
 <h3 align="center">Computer Engineering Student and Data Scientist</h3>
 
 - 🌍 speak Russian (native), English (A2)
-- area of interest
+- area of interest:
   - NLP
   - research
   - backend
