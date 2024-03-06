@@ -5,6 +5,6 @@
 - area of interest:
   - NLP
   - research
-  - backend
   - RecSys
   - RL
+  - backend
