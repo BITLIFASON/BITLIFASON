@@ -6,5 +6,6 @@
   - Agent System
   - LLM
   - NLP
+  - Backend
+  - Classic ML
   - RecSys
-  - backend
