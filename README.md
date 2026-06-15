@@ -3,7 +3,7 @@
 
 - 🌍 speak Russian (native), English (B1)
 - area of interest:
-  - Agent Systems
+  - Agentic Systems
   - LLM
   - NLP
   - Backend
